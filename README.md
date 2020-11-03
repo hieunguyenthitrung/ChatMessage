@@ -1,6 +1,9 @@
 # ChatMessage
 Make demo ChatMessage
 1. This is iOS application
+- Open Terminal application
+- Connect to the project
+- Type : pod install
 - Open Xcode
 - Choose simulator 
 - Run app
