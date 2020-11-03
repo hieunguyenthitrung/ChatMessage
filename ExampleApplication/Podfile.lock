@@ -1,0 +1,42 @@
+PODS:
+  - ACTabScrollView (0.3.0)
+  - Alamofire (4.9.1)
+  - ObjectMapper (3.5.3)
+  - ReachabilitySwift (3)
+  - SDWebImage (3.8.3):
+    - SDWebImage/Core (= 3.8.3)
+  - SDWebImage/Core (3.8.3)
+
+DEPENDENCIES:
+  - ACTabScrollView (from `https://github.com/azurechen/ACTabScrollView.git`)
+  - Alamofire (~> 4.4)
+  - ObjectMapper (~> 3.3)
+  - ReachabilitySwift (~> 3)
+  - SDWebImage (~> 3.8)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ObjectMapper
+    - ReachabilitySwift
+    - SDWebImage
+
+EXTERNAL SOURCES:
+  ACTabScrollView:
+    :git: https://github.com/azurechen/ACTabScrollView.git
+
+CHECKOUT OPTIONS:
+  ACTabScrollView:
+    :commit: e7dbd22bb047c58753ff5a940552333f9b106b60
+    :git: https://github.com/azurechen/ACTabScrollView.git
+
+SPEC CHECKSUMS:
+  ACTabScrollView: 9ed2c86bcb54a41b4bea74d4d2dc3a5ed9592900
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+  SDWebImage: a72e880a8fe0f7fc31efe15aaed443c074d2a80c
+
+PODFILE CHECKSUM: 063169603d7752a2c0c99e1c4c2a08e5b6b98e21
+
+COCOAPODS: 1.9.3
